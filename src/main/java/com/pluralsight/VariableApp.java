@@ -8,6 +8,8 @@ public class VariableApp {
         boolean havePets = false;
         String message = "Your Dreams will come true if you are DISCIPLINE!";
 
+        System.out.println(favorateColor + " " + birthYear + " " + middleIntial + " " + havePets + message);
+
 
 
 
