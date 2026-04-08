@@ -9,5 +9,7 @@ public class VariableApp {
         String message = "Your Dreams will come true if you are DISCIPLINE!";
 
 
+
+
     }
 }
