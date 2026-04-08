@@ -12,7 +12,7 @@ public class VariableApp {
 
         String week = "There are 7 days in own week. ";
         String coffee = "The price of coffe at this bouje spot is ($4.99)";
-        char favletter = 'J'
+        char favletter = 'J';
 
 
 
