@@ -24,6 +24,15 @@ public class VariableApp {
         System.out.println(letter + favLetter);
         System.out.println(isRaining + raining);
 
+        // step 3
+
+        String apples = "apples";
+        double price = 7.10;
+        int quantity = 3;
+
+        System.out.println("You bought " + quantity + " " + apples + " for $" + price);
+
+
 
 
 
